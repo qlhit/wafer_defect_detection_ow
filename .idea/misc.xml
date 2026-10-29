@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote wafer_defect_detection (sftp://qlh@10.130.145.29:22null)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote wafer_defect_detection (sftp://qlh@10.130.145.29:22null)" project-jdk-type="Python SDK" />
+</project>
