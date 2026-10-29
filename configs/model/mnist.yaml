@@ -1,4 +1,0 @@
-name: mnist
-model:
-  _target_: models.sedd.SEDD
-  model_path: checkpoints/mnist_uniform

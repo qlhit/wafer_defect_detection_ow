@@ -1,4 +1,0 @@
-name: pianoroll
-model:
-  _target_: models.sedd.SEDD
-  model_path: checkpoints/pianoroll
